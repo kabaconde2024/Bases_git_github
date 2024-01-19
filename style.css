@@ -5,3 +5,11 @@ p{
     font-size: 25px;
     font-weight: bolder;
 }
+
+div{
+    margin: 25px;
+}
+div a {
+    margin: 35px;
+    
+}
